@@ -1,4 +1,4 @@
-Hello! This GitHub repository is created to simplify the setup process for wings and the Pterodactyl panel, as well as to optimize Linux for stable operation and configure Anti-Disk-Fill. If you have any questions or encounter any issues, feel free to reach out to us on Discord: `sparixxpogi`.
+Hello! This GitHub repository is created to simplify the setup process for wings and the Pterodactyl panel, as well as to optimize Linux for stable operation and configure Anti-Disk-Fill. If you have any questions or encounter any issues, feel free to reach out to us on Discord: `mafiscute`.
 
 To set up wings/panel quickly, use the following command:
 ```bash
